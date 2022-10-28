@@ -1,0 +1,58 @@
+body{
+  background-color:lightblue;
+  font-family:Arial;
+  font-size:1.25rem;
+  color:blue;
+  }
+
+  hr{
+  border-top:blue 2px solid;
+  }
+
+  a:link{
+  color:darkblue
+  }
+
+  a:visited{
+  color:darkblue
+  }
+
+  a:hover{
+  color:#FDFDBD
+  }
+
+  .darkblue{
+    color:darkblue;
+  }
+
+  .centerTable{
+  Margin-left:auto;
+  Margin-right:auto;
+  }
+
+  .linkCells{
+  Padding:10px
+  }
+
+  .profilePic{
+  Height:400px;
+  Width:400px;
+  }
+
+
+  .morecent{
+  padding-left:30px
+  }
+
+  .ulListType{
+  list-style-type:none;
+  }
+  
+  .infoAlignment{
+  margin-left:auto;
+  margin-right:auto;
+  }
+
+  .headOneAlign{
+  text-align:center;
+  }
